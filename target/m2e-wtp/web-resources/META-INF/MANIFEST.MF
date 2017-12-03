@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: Email Sender
+Implementation-Version: 1.0
+Built-By: acgupta
+Implementation-Vendor-Id: com.akshdev
+Build-Jdk: 1.8.0_144
+Implementation-URL: http://projects.spring.io/spring-boot/email_sender
+ /
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
